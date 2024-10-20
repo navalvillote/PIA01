@@ -1,0 +1,10 @@
+**To make a submission to the competition, use this [Google Form](https://www.kaggle.com/gemini-long-context-submissions):**
+ - Include a link to a public Kaggle notebook that is attached to this competition.
+ - Include a link to a public Kaggle dataset that contains the data your model used as context.
+ - Include a link to a YouTube or YouTube Short video that outlines your completed project.
+
+**Eligibility Requirements:**
+ - The notebook made use of either the Gemini-1.5-Pro, Gemini-1.5-Flash, or Gemini-1.5-Flash-8B API.
+ - The notebook demonstrated how to process inputs greater than 10,000 tokens, and contained discussion of why it was helpful for the selected use case.
+ - The video summarized a notebook from the Gemini long-context window competition where the author was a contributing member.
+ - The video is public and was posted to either YouTube or YouTube Shorts.
